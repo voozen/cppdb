@@ -1,0 +1,3 @@
+C:/Users/vooze/CLionProjects/cppdb/cmake-build-debug/CMakeFiles/cppdb.dir
+C:/Users/vooze/CLionProjects/cppdb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vooze/CLionProjects/cppdb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
