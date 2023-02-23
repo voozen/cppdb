@@ -172,7 +172,6 @@ bool LoadFromFile(RecordNode* &db) {
     }
 }
 
-
 void SaveToFile(RecordNode* &db) {
     std::ifstream file("DB.dbf");
     std::string error;
